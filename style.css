@@ -1,0 +1,212 @@
+
+.Sneaker-Widget {
+    width: 1850px;
+    height: 1258px;
+    padding: 80px 240px 301.1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:#f2f4f5;
+    margin-left: 250px;
+}
+.Main-Options{
+    width: 1850px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.All-Categories-Div {
+  width: 250px;
+  height: 55px;
+  margin: 0 30px 154px 0;
+  padding: 21px 60px;
+  border-radius: 16px;
+  background-color: #75485e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }  
+  .All-Categories {
+    width: 150px;
+    height: 27px;
+    font-family: Segoe UI;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
+.Electronics-Div{
+  width: 250px;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 30px 154px;
+  padding: 21px 75px;
+  border-radius: 16px;
+  border: solid 2px #75485e;
+  background-color: rgba(255, 255, 255, 0.14);
+}
+.Electronics {
+  width: 100px;
+  height: 27px;
+  font-family: Segoe UI;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  text-align: center;
+  color: #75485e;
+}
+.Jewelery-Div{
+  width: 250px;
+  height: 55px;
+  margin: 0 30px 154px;
+  padding: 21px 84px;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: solid 2px #75485e;
+  background-color: rgba(255, 255, 255, 0.14);
+}
+.Jewelery {
+  width: 82px;
+  height: 27px;
+  font-family: Segoe UI;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  text-align: center;
+  color: #75485e;
+}
+.Mens-Clothing-Div{
+  width: 250px;
+  height:55px;
+  margin: 0 30px 154px;
+  padding: 21px 55px;
+  border-radius: 16px;
+  border: solid 2px #75485e;
+  background-color: rgba(255, 255, 255, 0.14);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Mens-Clothing {
+  width: 150px;
+  height: 27px;
+  font-family: Segoe UI;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  text-align: center;
+  color: #75485e;
+}
+.Womens-Clothing-Div{
+  width: 250px;
+  height: 55px;
+  margin: 0 0 154px 30px;
+  padding: 21px 39px;
+  border-radius: 16px;
+  border: solid 2px #75485e;
+  background-color: rgba(255, 255, 255, 0.14);
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+.Womens-Clothing {
+  width: 172px;
+  height: 27px;
+  font-family: Segoe UI;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.35;
+  letter-spacing: normal;
+  text-align: center;
+  color: #75485e;
+}
+.Boot-Preview {
+  width: 640px;
+  height: 653.9px;
+  margin: 154px 115px 0;
+  padding: 29px 29px 30px 30px;
+  border-radius: 16px;
+  box-shadow: 0 33px 46px 0 rgba(0, 0, 0, 0.22);
+  background-color: #fff;
+}
+.Boot-img {
+  width: 581px;
+  height: 390px;
+  margin: 0 0 18px;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  margin-left: 30px;
+}
+.splitting{
+  height:30px;
+  width: 600px;
+  display: flex;
+}
+.Runners {
+  font-size:40px;
+  width: 500px;
+  color: #434343;
+}
+.Price{
+font-size: 40px;
+}
+.Item-Type{
+  color: #989898;
+  font-size: 30px
+}
+.Item-Type-Div{
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.color{
+  font-size: 30px;
+  color:#989898 ;
+}
+.ADD-To-Cart-Div {
+  width: 150px;
+  height: 30px;
+  margin: 0 30px 154px 0;
+  padding: 21px 60px;
+  border-radius: 16px;
+  background-color: #75485e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  }  
+  .ADD-To-Cart {
+    width: 150px;
+    height: 27px;
+    font-family: Segoe UI;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.35;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
